@@ -1,5 +1,5 @@
 # Financial-DefMod
-Authors
+Authors: 
 [James](https://www.linkedin.com/in/james-jhirad), 
 [Edison](https://scholar.google.com/citations?user=uK_esCgAAAAJ&hl=es), 
 [Matsuo](https://scholar.google.co.jp/citations?user=Dy8iau4AAAAJ&hl=en)
