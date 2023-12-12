@@ -5,6 +5,6 @@ Authors:
 [Matsuo](https://scholar.google.co.jp/citations?user=Dy8iau4AAAAJ&hl=en)
 
 
-[Paper](https://github.com/KobiJames/Financial-DefMod/blob/main/2023_aacl_srw_investopedia_final.pdf)
+[Paper](https://github.com/KobiJames/Financial-DefMod/blob/main/2023_aacl_srw_investopedia_final.pdf) accepted at [AACL Student Research Workshop](https://aacl2023-srw.github.io/accepted)
 
 [Poster](https://github.com/KobiJames/Financial-DefMod/blob/main/PosterV4.png)
